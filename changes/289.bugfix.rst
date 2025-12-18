@@ -1,0 +1,1 @@
+Fixed an issue where some DLNA devices (e.g. JBL, WiiM) return metadata with an undeclared 'song:' namespace prefix.
